@@ -1,0 +1,10 @@
+# Compiled executables
+*.exe
+
+# Compiled object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+*.ilk
